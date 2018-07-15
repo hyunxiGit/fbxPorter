@@ -1,0 +1,2 @@
+VS2013 X86
+FBX2019 MT libfbxsdk-mt.lib
